@@ -1,6 +1,6 @@
 # Netflix-Subscriptions.csv
 
-Given the chosen dataset, your task is to 
+Given the chosen dataset, this task is to 
 Describe the data
 Build at least 3 models
 Evaluate the strength of the models
